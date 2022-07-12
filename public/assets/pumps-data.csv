@@ -1,0 +1,6 @@
+brand,size,body,elastomer,atex,end conn,joints
+S,0.5,Aluminium,Nitrile Buna,Yes,NPT,Bolted
+W,1,Cast Iron,Neoprene,No,BSP,Clamped
+A,1.5,Stainless Steel,Santoprene,,Flange,
+V,2,Polypropylene,PTFE- Santoprene,,,
+H,3,PVDF,PTFE- Neoprene,,,
